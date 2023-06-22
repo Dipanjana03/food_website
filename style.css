@@ -1,0 +1,92 @@
+.body{
+   
+font-family: 'Montserrat', sans-serif;
+scroll-behavior: smooth;
+}
+
+.banner{
+    background: url(image/banner-bg.png);
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:100%;
+}
+.header{
+    background-color: rgba(44, 39, 39, 0.871);
+    backdrop-filter: blur(3px);
+    
+}
+.logo img{
+    height:60px;
+}
+.button{
+    background: #f64b3c;
+    
+}
+.button:hover{
+    background: #f6eedf;
+    color:rgb(41, 40, 40)
+}
+.navigation li:hover{
+    border-bottom: 2px solid #f6eedf ;
+}
+.section-1{
+    background: url(image/section-1-bg.png);
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:100%;
+}
+.card-1{
+    width: 300px;
+}
+.image{
+    height:400px;
+}
+.section-2{
+    background:#f64b3c ;
+}
+.card-2{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+.text-section{
+    color: #f64b3c;
+}
+.img-pack{
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+.section-3{
+    background: url(image/section-3.png);
+}
+.section-3a{
+    background-color: #f64c3cb0;
+    background-position: center;
+}
+.sub-btn{
+    width:550px;
+    height:40px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: none;
+}
+.sub-btn-2{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    color:#f6eedf;
+    margin-left: -10px;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+   
+    margin-left: 10px;
+}
+
+
+
